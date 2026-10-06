@@ -36,8 +36,8 @@ Psicólogo con sólida experiencia en análisis, investigación y metodologías 
 ### 📊 Métricas de actividad  
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=lucassaeztoledo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassaeztoledo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />  
 </p>  
 
 ---
