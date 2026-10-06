@@ -10,26 +10,28 @@ Psicólogo con sólida experiencia en análisis, investigación y metodologías 
 
 ### 🛠️ Stack tecnológico  
 
-* **Inteligencia Artificial y Datos:** LLM Fine-Tuning/Evaluation, Prompt Engineering, Python, Data Science, Pandas, NumPy.  
-* **Backend & Bases de Datos:** Python, Django, PostgreSQL, SQL, REST APIs.  
-* **Frontend:** HTML5, CSS3, JavaScript, Bootstrap.  
-* **Entorno & Herramientas:** Git, GitHub, VS Code, Linux/macOS, Postman.  
+* **Inteligencia Artificial y Datos:** LLM Evaluation, Prompt Engineering, Python, Data Science.  
+* **Backend & Bases de Datos:** Python, Django, PostgreSQL, SQL.  
+* **Frontend:** HTML, CSS, Bootstrap.  
+* **Entorno & Herramientas:** Git, GitHub, VS Code, Linux/macOS.
 
 ---
 
-### 🚀 Proyectos destacados (Open Source)  
+### 🚀 Proyectos Destacados
 
-> Soluciones y proyectos desarrollados en desarrollo web, análisis de datos e inteligencia artificial:  
+> Selección de desarrollos web, automatizaciones y sistemas en producción:
 
-* **[OnlyFlans Web Platform](https://github.com/lucassaeztoledo/onlyflans)**  
-  * *Stack:* Python, Django, PostgreSQL, Bootstrap.  
-  * *Descripción:* Aplicación web modular con autenticación de usuarios, modelos relacionales, vistas dinámicas y formularios interactivos.  
-* **[LLM Evaluation y Data Analysis](https://github.com/lucassaeztoledo/llm-eval-benchmarks)**  
-  * *Stack:* Python, Pandas, Prompt Engineering, Jupyter Notebooks.  
-  * *Descripción:* Scripts y metodologías para el benchmarking, control de calidad y alineación de modelos de lenguaje grande.  
-* **[Data Science & Predictive Modeling](https://github.com/lucassaeztoledo/data-science-bootcamp)**  
-  * *Stack:* Python, Data Cleaning, EDA, Modelos Estadísticos.  
-  * *Descripción:* Análisis exploratorio de datos y modelos predictivos desarrollados durante mi formación en Ciencia de Datos.  
+* **Mynor Gestión — ERP & AI Document Processing** *(Privado / En Producción)*
+  * **Stack:** Python 3.11, Streamlit, Google Gemini AI (LLM / Multimodal OCR), Google Drive & Sheets API, Wix REST API, Flask (PWA).
+  * **Descripción:** Sistema de gestión integral para la industria textil. Centraliza pedidos omnicanal (Wix, WhatsApp, presencial), clasifica y procesa documentos tributarios y comprobantes de envío con IA multimodal, gestiona inventario/despachos y genera métricas financieras en tiempo real.
+
+* **[Split Mac](https://github.com/lucassaeztoledo/split-mac)**
+  * **Stack:** Python, FFMPEG / Audio Processing, Shell Script.
+  * **Descripción:** Herramienta y flujo de trabajo para macOS orientado a la automatización, división y procesamiento eficiente de archivos de audio.
+
+* **[Viajes Chile](https://github.com/lucassaeztoledo/viajes-chile)**
+  * **Stack:** HTML5, CSS3, JavaScript, Bootstrap.
+  * **Descripción:** Sitio web responsive para agencia de turismo nacional, con diseño adaptativo, navegación fluida e integración de componentes interactivos. 
 
 ---
 
