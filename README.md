@@ -17,7 +17,7 @@ Psicólogo con sólida experiencia en análisis, investigación y metodologías 
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Proyectos destacados
 
 > Selección de desarrollos web, automatizaciones y sistemas en producción:
 
